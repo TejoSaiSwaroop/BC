@@ -5,3 +5,5 @@ A revision repository for anyone who'd like to refresh their BlockChain fundamen
 File to file progress will be updated, this repo is also referred by multiple YouTube channels and websites I'll note them down below:
 - [Simply Explained](https://www.youtube.com/@simplyexplained)
 - [Binance Academy](https://academy.binance.com/en/courses/track/beginner-track/blockchain-fundamentals/introduction-to-blockchain-technology)
+
+-Added detailed notes on mining as well, with the code being explained.
